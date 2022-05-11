@@ -75,6 +75,10 @@ public class Nestedcondition {
                 {
                     System.out.println("IR 5%");
                 }
+            default:
+                {
+                    System.out.println("Invalid choice")
+                }
         }
     }
 }
